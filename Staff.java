@@ -9,4 +9,8 @@ public class Staff {
     public Employee cjobes() {
 		return new Employee("Colton", "Lead Naps Analyst", "What do you mean I'm not valuable to the company?", "colton.jpg");
     }
+
+    public Employee damatth() {
+	    return new Employee("Dakota", "Nap Engineer", "I just sleep if I don't have to be anywhere today", "dakota.jpg");
+    }
 }	

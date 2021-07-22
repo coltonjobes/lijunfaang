@@ -5,5 +5,8 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product joshsProduct() {
         return new Product("Dirt", "The good stuff", "dirt.jpeg", 10000.0);
     }
+    public Product dakotasProduct() {
+	    return new Product ("Pillow", "For naps", "napster5000.jpg", 1.0);
+    }
 }
 
