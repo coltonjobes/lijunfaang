@@ -30,7 +30,5 @@ public class Product {
     public String toString() {
         return "Product";
     }
-    puclic Product air() {
-        return Product("Bottle of Air", "The purest and cleanest air in the world!", "air.jpg", 1);
-    }
+    
 }
