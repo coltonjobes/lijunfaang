@@ -13,4 +13,8 @@ public class Staff {
     public Employee batraa(){
         return new Employee("Anna", "Junior git learner", "Hello, I look forward to working with you all.", "batraa.jpeg");
     }
+
+    public Employee ryk05() {
+	return new Employee("Reet", "Competent Employee", "I strive to complete the satisfactory amount of work", "reet.jpeg");
+    }
 }	
