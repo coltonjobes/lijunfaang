@@ -17,4 +17,8 @@ public class Staff {
     public Employee ryk05() {
 	return new Employee("Reet", "Competent Employee", "I strive to complete the satisfactory amount of work", "reet.jpeg");
     }
+
+    public Employee wang4() {
+    	return new Employee("Jaden", "Intern", "Hoping to learn as much as I can while I'm here.", "jaden.jpg")
+    }
 }	
