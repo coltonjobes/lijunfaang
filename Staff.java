@@ -7,7 +7,7 @@ public class Staff {
     }
 
     public Employee cjobes() {
-		return new Employee("Colton", "Lead Naps Analyst", "What do you mean I'm not valuable to the company?", "colton.jpg");
+	return new Employee("Colton", "Lead Naps Analyst", "What do you mean I'm not valuable to the company?", "colton.jpg");
     }
 
     public Employee kevylees() {
