@@ -7,7 +7,7 @@ public class Staff {
     }
 
     public Employee cjobes() {
-		return new Employee("Colton", "Lead Naps Analyst", "What do you mean I'm not valuable to the company?", "colton.jpg");
+	return new Employee("Colton", "Lead Naps Analyst", "What do you mean I'm not valuable to the company?", "colton.jpg");
     }
 
     public Employee kevylees() {
@@ -18,4 +18,8 @@ public class Staff {
         return new Employee("Sahibjeet", "Intern", "New Intern", "pup2.jpg");
     }
     
+    public Employee ycai2() {
+	return new Employee("Christine Cai", "Intern", "New Intern", "Christine.jpg");
+
+    }
 }
