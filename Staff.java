@@ -25,4 +25,8 @@ public class Staff {
     public Employee chluo() {
         return new Employee("Chenkai", "Important Business Person at Important Business Inc.", "Descriptive Description Describing Descriptors", "totally_real_employee.png");
     }
+    
+    public Employee hqchau() {
+    	return new Employee("Victor", "Expert Meme Stealer", "To describe the nature of a describable description, the descriptor must be descriptive on the described descriptiveness of descriptivism", "v.jpg");
+    }
 }	
