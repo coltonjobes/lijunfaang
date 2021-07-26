@@ -12,24 +12,19 @@ public class Staff {
 
     public Employee melodyzh() {
 	    return new Employee("Melody", "Food Enthusiast", "Ensure there are good snacks", "melody.jpg");
+    }
 
     public Employee batraa(){
         return new Employee("Anna", "Junior git learner", "Hello, I look forward to working with you all.", "batraa.jpeg");
     }
 
-    public Employee ryk05() {
-	return new Employee("Reet", "Competent Employee", "I strive to complete the satisfactory amount of work", "reet.jpeg");
+    public Employee kevylees() {
+	return new Employee("Kevin Lee", "Podcast Host", "Check out my podcast called WhatSupy", "Kevi.jpg");
+>>>>>>> Staff.java
     }
 
-    public Employee wang4() {
-    	return new Employee("Jaden", "Intern", "Hoping to learn as much as I can while I'm here.", "jaden.jpg")
-    }
-
-    public Employee chluo() {
-        return new Employee("Chenkai", "Important Business Person at Important Business Inc.", "Descriptive Description Describing Descriptors", "totally_real_employee.png");
+    public Employee ssaran8() {
+        return new Employee("Sahibjeet", "Intern", "New Intern", "pup2.jpg");
     }
     
-    public Employee hqchau() {
-    	return new Employee("Victor", "Expert Meme Stealer", "To describe the nature of a describable description, the descriptor must be descriptive on the described descriptiveness of descriptivism", "v.jpg");
-    }
-}	
+}
