@@ -13,4 +13,9 @@ public class Staff {
     public Employee kevylees() {
 	return new Employee("Kevin Lee", "Podcast Host", "Check out my podcast called WhatSupy", "Kevi.jpg");
     }
+
+    public Employee ssaran8() {
+        return new Employee("Sahibjeet", "Intern", "New Intern", "pup2.jpg");
+    }
+    
 }
