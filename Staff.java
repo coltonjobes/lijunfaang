@@ -17,10 +17,13 @@ public class Staff {
     public Employee ssaran8() {
         return new Employee("Sahibjeet", "Intern", "New Intern", "pup2.jpg");
     }
+
+    public Employee truong97() {
+	return new Employee("Melissa", "Professional Personal Shopper", "I love spending other people's money for a living", "MT.png");
+    }
     
     public Employee ycai2() {
 	return new Employee("Christine Cai", "Intern", "New Intern", "Christine.jpg");
-
     }
     
     public Employee wj428() {
