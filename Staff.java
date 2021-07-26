@@ -11,6 +11,6 @@ public class Staff {
     }
 
     public Employee kevylees() {
-	return new Employee("Kevin", "Podcast Host", "Check out my podcast called WhatSupy", "Kevi.jpg");
+	return new Employee("Kevin Lee", "Podcast Host", "Check out my podcast called WhatSupy", "Kevi.jpg");
     }
 }

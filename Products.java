@@ -7,7 +7,7 @@ public class Products { /* a good class, but not as good as cse391 */
     }
     
     public Product kevisProduct() {
-	return new Product("Watermelon", "The best fruit", "watermelon.jpg", 123.0);
+	return new Product("Watermelons", "The best fruit", "watermelon.jpg", 123.0);
     }
 }
 
