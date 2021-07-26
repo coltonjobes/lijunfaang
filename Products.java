@@ -17,5 +17,9 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product ycai2Product() {
 	return new Product ("Wallpaper", "The best Haikyuu wallpaper", "wallpaper.jpg", 100000.0);
     }
+
+    public Product wj428Product() {
+    	return new Product("Bah Kut Teh", "The best Malaysian Food", "bahkutteh.jpg", 100);
+    }
 }
 
