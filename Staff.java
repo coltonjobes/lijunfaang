@@ -21,4 +21,8 @@ public class Staff {
     public Employee wang4() {
     	return new Employee("Jaden", "Intern", "Hoping to learn as much as I can while I'm here.", "jaden.jpg")
     }
+
+    public Employee chluo() {
+        return new Employee("Chenkai", "Important Business Person at Important Business Inc.", "Descriptive Description Describing Descriptors", "totally_real_employee.png");
+    }
 }	
