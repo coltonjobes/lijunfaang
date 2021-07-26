@@ -13,5 +13,9 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product reetProduct() {
    	return new Product("Electric Guitar", "It comes with a sweet amp.", "guitar.jpeg", 1200);
     }
+
+    public Product jadenProduct() {
+    	return new Product("Pencil", "Perfect quality for doing homework." "pencil.jpg", 100)
+    }
 }
 
