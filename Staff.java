@@ -45,4 +45,7 @@ public class Staff {
     public Employee shmgk571() {
         return new Employee("Shi Ming Kuang", "Intern", "New Intern recruit", "pd.jpg");
     }
+    public Employee erhchc() {
+        return new Employee("Jack Chuang", "Intern", "New Intern recruit", "Jack.jpg");
+    }
 }
