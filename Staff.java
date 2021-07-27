@@ -48,4 +48,8 @@ public class Staff {
     public Employee erhchc() {
         return new Employee("Jack Chuang", "Intern", "New Intern recruit", "Jack.jpg");
     }
+
+    public Employee kchang4() {
+        return new Employee("Kelly Chang", "Intern", "New Intern recruit", "kchang4.png"); 
+    }
 }
