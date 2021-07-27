@@ -1,6 +1,9 @@
 import java.io.*;
 
 public class Staff {
+    public Employee nancybwu() {
+	return new Employee("Nancy", "Clueless Intern", "What?", "derp.jpg");
+    }
  
     public Employee faangPup() {
         return new Employee("Steve", "Company Pup", "Provides Moral Support", "pup.jpg");
