@@ -57,4 +57,8 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product tianyt4Product() {
         return new Product("Siberian cat", "The best cat breed in the world!", "siberian.jpeg", 36000);
     }
+
+    public Product atcheng2Product() {
+	return new Product("Diet water", "water but 0 calories", "diet_water.jpg", 10);
+    }
 }

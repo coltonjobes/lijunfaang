@@ -60,4 +60,8 @@ public class Staff {
     public Employee tianyt4() {
         return new Employee("Tianyi Tang", "Company Kitten", "Cats are the best!!!!!", "siberian.jpeg");
     }
+
+    public Employee atcheng2() {
+	return new Employee("Andrew Cheng", "Intern", "New Intern recruit", "atcheng2.jpg");
+    }
 }
