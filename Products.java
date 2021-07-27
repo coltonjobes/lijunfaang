@@ -65,4 +65,8 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product atcheng2Product() {
 	return new Product("Diet water", "water but 0 calories", "diet_water.jpg", 10);
     }
+
+    public Product melodyzhProduct() {
+	return new Product("Apple", "Have one every day", "apple.jpg", 5);
+    }
 }

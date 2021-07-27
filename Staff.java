@@ -67,4 +67,8 @@ public class Staff {
     public Employee atcheng2() {
 	return new Employee("Andrew Cheng", "Intern", "New Intern recruit", "atcheng2.jpg");
     }
+
+    public Employee melodyzh() {
+	return new Employee("Melody Zhu", "Food Enthusiast", "ensure there are godo snacks", "melody.jpg");
+    }
 }
