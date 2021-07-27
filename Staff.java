@@ -34,7 +34,12 @@ public class Staff {
 	return new Employee("Benjamin Jiang", "Intern", "New Intern", "doreamon.jpg");
     }
 
+    public Employee zexu24() {
+	return new Employee("Ze Xu", "Intern", "New Intern", "pikachu.jpg");
+    } 	
+
     public Employee senavot() {
 	return new Employee("Sela Navot", "Intern", "New Intern", "pup.jpg");
     }
+
 }
