@@ -49,4 +49,7 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product kchang4Product() {
         return new Product("Pusheen Plushie", "The squishiest Pusheen the cat plushie", "pusheen.png", 23.80); 
     }
+    public Product pongsterProduct() {
+        return new Product("Potato", "An average potato", "potato.jpg", 100);
+    }
 }
