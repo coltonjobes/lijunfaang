@@ -36,4 +36,39 @@ public class Staff {
     public Employee wj428() {
     	return new Employee("Wei Jun", "Intern", "New Intern", "weijun.jpeg");
     }
+
+    public Employee jianghao() {
+	return new Employee("Benjamin Jiang", "Intern", "New Intern", "doreamon.jpg");
+    }
+
+    public Employee zexu24() {
+	return new Employee("Ze Xu", "Intern", "New Intern", "pikachu.jpg");
+    } 	
+
+    public Employee senavot() {
+	return new Employee("Sela Navot", "Intern", "New Intern", "pup.jpg");
+    }
+
+    public Employee shmgk571() {
+        return new Employee("Shi Ming Kuang", "Intern", "New Intern recruit", "pd.jpg");
+    }
+    public Employee erhchc() {
+        return new Employee("Jack Chuang", "Intern", "New Intern recruit", "Jack.jpg");
+    }
+
+    public Employee kchang4() {
+        return new Employee("Kelly Chang", "Intern", "New Intern recruit", "kchang4.png"); 
+    }
+    
+    public Employee pongster() {
+        return new Employee("Phuripong", "Intern", "New Intern recruit", "pongster.jpg");
+    }
+
+    public Employee tianyt4() {
+        return new Employee("Tianyi Tang", "Company Kitten", "Cats are the best!!!!!", "siberian.jpeg");
+    }
+
+    public Employee atcheng2() {
+	return new Employee("Andrew Cheng", "Intern", "New Intern recruit", "atcheng2.jpg");
+    }
 }
