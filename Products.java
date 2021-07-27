@@ -5,13 +5,25 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product joshsProduct() {
         return new Product("Dirt", "The good stuff", "dirt.jpeg", 10000.0);
     }
-
-    public Product batraaProduct(){
-        return new Product("Sunglasses", "Purple, put on your dog for best return on cute happiness. Dog not for sale.", "batraa_sunglasses.jpeg", 999.99);
+    
+    public Product kevisProduct() {
+	return new Product("Watermelons", "The best fruit", "watermelon.jpg", 123.0);
     }
 
-    public Product reetProduct() {
-   	return new Product("Electric Guitar", "It comes with a sweet amp.", "guitar.jpeg", 1200);
+    public Product ssaran8Product() {
+        return new Product("Dirt2", "The really good stuff", "dirt2.jpeg", 100000.0);
+    }
+
+    public Product truong97Product() {
+	return new Product("Chicken Nuggets", "Goes well with any sauce!", "chicken_nugget.png", 2.50);
+    }
+   
+    public Product ycai2Product() {
+	return new Product ("Wallpaper", "The best Haikyuu wallpaper", "wallpaper.jpg", 100000.0);
+    }
+
+    public Product wj428Product() {
+    	return new Product("Bah Kut Teh", "The best Malaysian Food", "bahkutteh.jpg", 100);
     }
 
     public Product jdel111() {
