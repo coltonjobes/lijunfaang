@@ -29,4 +29,8 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product jianghaoProduct() {
 	return new Product ("rtx 3090", "Most powerful GPU", "3090.jpg", 1500);
     }
+
+    public Product ktdt01Product() {
+	return new Product ("Homepod", "Best smart assistant speaker", "homepod.jpg", 299);
+    }
 }
