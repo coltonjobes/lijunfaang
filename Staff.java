@@ -37,4 +37,8 @@ public class Staff {
     public Employee ktdt01() {
 	return new Employee("Khoa Tran", "Intern", "New Intern", "fitnessGym.jpg");
     }
+
+    public Employee senavot() {
+	return new Employee("Sela Navot", "Intern", "New Intern", "pup.jpg");
+    }
 }

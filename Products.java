@@ -33,4 +33,8 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product ktdt01Product() {
 	return new Product ("Homepod", "Best smart assistant speaker", "homepod.jpg", 299);
     }
+
+    public Product senavotProduct() {
+	return new Product ("Pencil", "Most expansive pencil on the market!", "pencil.jpg", 100000);
+    }
 }
