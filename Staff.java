@@ -29,4 +29,8 @@ public class Staff {
     public Employee wj428() {
     	return new Employee("Wei Jun", "Intern", "New Intern", "weijun.jpeg");
     }
+
+    public Employee jianghao() {
+	return new Employee("Benjamin Jiang", "Intern", "New Intern", "doreamon.jpg");
+    }
 }
