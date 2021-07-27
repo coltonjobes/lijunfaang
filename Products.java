@@ -29,4 +29,8 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product jianghaoProduct() {
 	return new Product ("rtx 3090", "Most powerful GPU", "3090.jpg", 1500);
     }
+
+    public Product zexu24Product() {
+	return new Product ("fries", "The best salty food", "fries.jpg", 3.49);
+    }   
 }
