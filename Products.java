@@ -14,6 +14,22 @@ public class Products { /* a good class, but not as good as cse391 */
         return new Product("Cherries", "The sweet and red fruits.", "cherries.png", 10.0);
     }
 
+    public Product melodysProduct() {
+	    return new Product("Apple", "Eat one a day", "apple.jpg", 50.0);
+    }
+
+    public Product batraaProduct(){
+        return new Product("Sunglasses", "Purple, put on your dog for best return on cute happiness. Dog not for sale.", "batraa_sunglasses.jpeg", 999.99);
+    }
+
+    public Product reetProduct() {
+   	return new Product("Electric Guitar", "It comes with a sweet amp.", "guitar.jpeg", 1200);
+    }
+
+    public Product jadenProduct() {
+    	return new Product("Pencil", "Perfect quality for doing homework." "pencil.jpg", 100)
+    }
+
     public Product kevisProduct() {
 	return new Product("Watermelons", "The best fruit", "watermelon.jpg", 123.0);
     }
@@ -68,5 +84,9 @@ public class Products { /* a good class, but not as good as cse391 */
 
     public Product atcheng2Product() {
 	return new Product("Diet water", "water but 0 calories", "diet_water.jpg", 10);
+    }
+
+    public Product melodyzhProduct() {
+	return new Product("Apple", "Have one every day", "apple.jpg", 5);
     }
 }
