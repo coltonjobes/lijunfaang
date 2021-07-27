@@ -38,4 +38,7 @@ public class Products { /* a good class, but not as good as cse391 */
 	return new Product ("Pencil", "Most expansive pencil on the market!", "pencil.jpg", 100000);
     }
 
+    public Product shmgk571Product() {
+        return new Product("USB 3.0 Ethernet Hub", "usb hub for network connectivity", "usb.jpg", 20);
+    }
 }
