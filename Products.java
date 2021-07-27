@@ -49,7 +49,12 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product kchang4Product() {
         return new Product("Pusheen Plushie", "The squishiest Pusheen the cat plushie", "pusheen.png", 23.80); 
     }
+
     public Product pongsterProduct() {
         return new Product("Potato", "An average potato", "potato.jpg", 100);
+    }
+
+    public Product tianyt4Product() {
+        return new Product("Siberian cat", "The best cat breed in the world!", "siberian.jpeg", 36000);
     }
 }

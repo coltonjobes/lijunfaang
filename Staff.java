@@ -52,7 +52,12 @@ public class Staff {
     public Employee kchang4() {
         return new Employee("Kelly Chang", "Intern", "New Intern recruit", "kchang4.png"); 
     }
-     public Employee pongster() {
+    
+    public Employee pongster() {
         return new Employee("Phuripong", "Intern", "New Intern recruit", "pongster.jpg");
+    }
+
+    public Employee tianyt4() {
+        return new Employee("Tianyi Tang", "Company Kitten", "Cats are the best!!!!!", "siberian.jpeg");
     }
 }
