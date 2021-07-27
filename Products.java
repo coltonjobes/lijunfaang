@@ -41,4 +41,8 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product shmgk571Product() {
         return new Product("USB 3.0 Ethernet Hub", "usb hub for network connectivity", "usb.jpg", 20);
     }
+    public Product erhchcProduct() {
+        return new Product("chicken wings", "best food ever", "chicken_wings.jpg", 200);
+    }
+
 }
