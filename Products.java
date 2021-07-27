@@ -10,6 +10,10 @@ public class Products { /* a good class, but not as good as cse391 */
         return new Product("Dirt", "The good stuff", "dirt.jpeg", 10000.0);
     }
 
+    public Product danielsProduct() {
+        return new Product("Cherries", "The sweet and red fruits.", "cherries.png", 10.0);
+    }
+
     public Product melodysProduct() {
 	    return new Product("Apple", "Eat one a day", "apple.jpg", 50.0);
     }
