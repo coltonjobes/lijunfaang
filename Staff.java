@@ -13,8 +13,17 @@ public class Staff {
 	return new Employee("Colton", "Lead Naps Analyst", "What do you mean I'm not valuable to the company?", "colton.jpg");
     }
 
+    public Employee melodyzh() {
+	    return new Employee("Melody", "Food Enthusiast", "Ensure there are good snacks", "melody.jpg");
+    }
+
+    public Employee batraa(){
+        return new Employee("Anna", "Junior git learner", "Hello, I look forward to working with you all.", "batraa.jpeg");
+    }
+
     public Employee kevylees() {
 	return new Employee("Kevin Lee", "Podcast Host", "Check out my podcast called WhatSupy", "Kevi.jpg");
+>>>>>>> Staff.java
     }
 
     public Employee ssaran8() {
@@ -66,5 +75,9 @@ public class Staff {
 
     public Employee atcheng2() {
 	return new Employee("Andrew Cheng", "Intern", "New Intern recruit", "atcheng2.jpg");
+    }
+
+    public Employee melodyzh() {
+	return new Employee("Melody Zhu", "Food Enthusiast", "ensure there are godo snacks", "melody.jpg");
     }
 }
