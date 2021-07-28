@@ -3,7 +3,7 @@ import java.io.*;
 /* check out these products! */
 public class Products { /* a good class, but not as good as cse391 */
 
-    public Product yanyiliProduct() {
+i    public Product yanyiliProduct() {
         return new Product("Gold", "The hell expensive stuff", "gold.jpg", 100000.0);
     }
     public Product IsanProduct() {
@@ -103,5 +103,9 @@ public class Products { /* a good class, but not as good as cse391 */
 
     public Product ajagnaniProduct() {
         return new Product("Gaming Chair", "Chair for gamers", "chair.jpeg", 0.002);
+    }
+    
+    public Product yukguProduct() {
+        return new Product("Yorkshire pudding", "It's a sort of popover. Savoury,ggy,Slightly fatty,but not greasy.", "Yorkshire.png", 15);
     }   
 }

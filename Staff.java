@@ -94,4 +94,8 @@ public class Staff {
     public Employee ajagnani() {
         return new Employee("Arjun Jagnani", "Project Manager Assistant Intern", "FAANG is the GOAT", "arjunj.jpeg");
     }
+
+    public Employee yukgu(){
+        return new Employee("Yu GU", "Intern", "Newbie", "PomPurin.png");
+    }
 }
