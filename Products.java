@@ -94,5 +94,9 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product melodyzhProduct() {
 	    return new Product("Apple", "Have one every day", "apple.jpg", 5);
     }
+
+    public Product qballerProduct() {
+        return new Product("Dell", "Dell Do", "dell.jpg", 2000);
+    }
     
 }

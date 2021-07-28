@@ -85,4 +85,8 @@ public class Staff {
 	    return new Employee("Andrew Cheng", "Intern", "New Intern recruit", "atcheng2.jpg");
     }
 
+    public Employee qballer() {
+        return new Employee("Cooper Marshall", "Chief Chef", "Go team USA!", "cooper.jpg");
+    }
+
 }
