@@ -88,5 +88,8 @@ public class Staff {
     public Employee qballer() {
         return new Employee("Cooper Marshall", "Chief Chef", "Go team USA!", "cooper.jpg");
     }
-
+    
+    public Employee ajagnani() {
+        return new Employee("Arjun Jagnani", "Project Manager Assistant Intern", "FAANG is the GOAT", "arjunj.jpeg");
+    }
 }
