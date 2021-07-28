@@ -41,7 +41,9 @@ public class Staff {
     public Employee truong97() {
 	    return new Employee("Melissa", "Professional Personal Shopper", "I love spending other people's money for a living", "MT.png");
     }
-    
+    public Employee isanc() {
+	return new Employee("Isan", "Student", "hi guys", "Isan.jpg");
+    }	 		
     public Employee ycai2() {
 	    return new Employee("Christine Cai", "Intern", "New Intern", "Christine.jpg");
     }
