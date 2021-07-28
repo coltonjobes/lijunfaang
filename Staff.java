@@ -102,4 +102,8 @@ public class Staff {
     public Employee akshat07() {
 	return new Employee("Akshat Mardia", "Company Assassin", "We need more assassins.", "ak47.jpeg");
     }
+
+    public Employee cslam7() {
+	return new Employee("Cory", "Pro PoGo", "musical team", "cory.jpeg");
+    }
 }
