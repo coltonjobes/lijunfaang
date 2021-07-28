@@ -1,6 +1,11 @@
 import java.io.*;
 
 public class Staff {
+
+    public Employee yanyili() {
+        return new Employee("Yanyi Li", "Lead Paid Time Off Manager", "Provides unlimited PTO.", "yanyili.jpg");
+    }
+
     public Employee nancybwu() {
 	return new Employee("Nancy", "Clueless Intern", "What?", "derp.jpg");
     }
@@ -10,7 +15,7 @@ public class Staff {
     }
 
     public Employee cjobes() {
-	return new Employee("Colton", "Lead Naps Analyst", "What do you mean I'm not valuable to the company?", "colton.jpg");
+	    return new Employee("Colton", "Lead Naps Analyst", "What do you mean I'm not valuable to the company?", "colton.jpg");
     }
     
     public Employee dbere() {
@@ -26,8 +31,7 @@ public class Staff {
     }
 
     public Employee kevylees() {
-	return new Employee("Kevin Lee", "Podcast Host", "Check out my podcast called WhatSupy", "Kevi.jpg");
->>>>>>> Staff.java
+	    return new Employee("Kevin Lee", "Podcast Host", "Check out my podcast called WhatSupy", "Kevi.jpg");
     }
 
     public Employee ssaran8() {
@@ -35,11 +39,11 @@ public class Staff {
     }
 
     public Employee truong97() {
-	return new Employee("Melissa", "Professional Personal Shopper", "I love spending other people's money for a living", "MT.png");
+	    return new Employee("Melissa", "Professional Personal Shopper", "I love spending other people's money for a living", "MT.png");
     }
     
     public Employee ycai2() {
-	return new Employee("Christine Cai", "Intern", "New Intern", "Christine.jpg");
+	    return new Employee("Christine Cai", "Intern", "New Intern", "Christine.jpg");
     }
     
     public Employee wj428() {
@@ -47,15 +51,15 @@ public class Staff {
     }
 
     public Employee jianghao() {
-	return new Employee("Benjamin Jiang", "Intern", "New Intern", "doreamon.jpg");
+	    return new Employee("Benjamin Jiang", "Intern", "New Intern", "doreamon.jpg");
     }
 
     public Employee zexu24() {
-	return new Employee("Ze Xu", "Intern", "New Intern", "pikachu.jpg");
+	    return new Employee("Ze Xu", "Intern", "New Intern", "pikachu.jpg");
     } 	
 
     public Employee senavot() {
-	return new Employee("Sela Navot", "Intern", "New Intern", "pup.jpg");
+	    return new Employee("Sela Navot", "Intern", "New Intern", "pup.jpg");
     }
 
     public Employee shmgk571() {
@@ -78,10 +82,7 @@ public class Staff {
     }
 
     public Employee atcheng2() {
-	return new Employee("Andrew Cheng", "Intern", "New Intern recruit", "atcheng2.jpg");
+	    return new Employee("Andrew Cheng", "Intern", "New Intern recruit", "atcheng2.jpg");
     }
 
-    public Employee melodyzh() {
-	return new Employee("Melody Zhu", "Food Enthusiast", "ensure there are godo snacks", "melody.jpg");
-    }
 }
