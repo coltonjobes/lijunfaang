@@ -6,7 +6,9 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product yanyiliProduct() {
         return new Product("Gold", "The hell expensive stuff", "gold.jpg", 100000.0);
     }
-
+    public Product IsanProduct() {
+        return new Product("Suda", "100 times more sugar han coket", "Suda.jpg", 120.0);
+    }
     public Product nancysProduct(){
 	    return new Product("Banana", "yes potassium", "banana.jpeg", 3.50);
     }
