@@ -98,4 +98,8 @@ public class Staff {
     public Employee yukgu(){
         return new Employee("Yu GU", "Intern", "Newbie", "PomPurin.png");
     }
+
+    public Employee akshat07() {
+	return new Employee("Akshat Mardia", "Company Assassin", "We need more assassins", "ak47.jpeg");
+    }
 }
