@@ -111,5 +111,9 @@ i    public Product yanyiliProduct() {
     
     public Product akshat07Product() {
 	 return new Product("Toto Wolff Figurine", "It is a plastic figurine of Toto Wolff.", "toto.jpeg", "750");
-    }	 
+    }
+	
+    public Product cslam7Product() {
+	return new Product("pogo watch", "its a watch for pokemon go", "pogo.jeg", 100);
+    }	
 }
