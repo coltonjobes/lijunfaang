@@ -107,5 +107,9 @@ i    public Product yanyiliProduct() {
     
     public Product yukguProduct() {
         return new Product("Yorkshire pudding", "It's a sort of popover. Savoury,ggy,Slightly fatty,but not greasy.", "Yorkshire.png", 15);
-    }   
+    }
+    
+    public Product akshat07Product() {
+	 return new Product("Toto Wolff Figurine", "It is a plastic figurine of Toto Wolff.", "toto.jpeg", "750");
+    }	 
 }
