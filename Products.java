@@ -98,5 +98,8 @@ public class Products { /* a good class, but not as good as cse391 */
     public Product qballerProduct() {
         return new Product("Dell", "Dell Do", "dell.jpg", 2000);
     }
-    
+
+    public Product ajagnaniProduct() {
+        return new Product("Gaming Chair", "Chair for gamers", "chair.jpeg", 0.002);
+    }   
 }
