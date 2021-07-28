@@ -110,6 +110,6 @@ i    public Product yanyiliProduct() {
     }
     
     public Product akshat07Product() {
-	 return new Product("Toto Wolff Figurine", "It is a plastic figurine of Toto Wolff", "toto.jpeg", "750");
+	 return new Product("Toto Wolff Figurine", "It is a plastic figurine of Toto Wolff.", "toto.jpeg", "750");
     }	 
 }
